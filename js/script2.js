@@ -4,7 +4,7 @@ var w = (c.width = window.innerWidth),
   hw = w / 2, 
   hh = h / 2,
   opts = {
-    strings: ["HAPPY", "VALENTINE", "DAY"],
+    strings: ["GLAD", "YOU", "AGREED!", "SEE YOU", "SOON ❤️"],
     charSize: 120,
     charSpacing: 120,
     lineHeight: 150,
